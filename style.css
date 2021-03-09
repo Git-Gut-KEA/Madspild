@@ -44,6 +44,8 @@ ul a:hover{
     border-radius: 50px;
 }
 
+
+
 .home-content{
     position: absolute;
     top: 40%;
@@ -115,6 +117,28 @@ ul a:hover{
     padding: 1rem 4rem 1rem 4rem;
     list-style-type: none;
 }
+.form-wrapper{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+    
+}
+
+.form{
+    
+    text-align: center;
+}
+.form div{
+    padding: 12px;
+
+}
+
+
+
+
+
 
 
 
