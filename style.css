@@ -15,7 +15,7 @@ body{
 nav {
     display: flex;
     justify-content: space-between;
-    min-height: 10vh;
+    min-height: 5vh;
     padding: 0rem 5rem;
 }
 
