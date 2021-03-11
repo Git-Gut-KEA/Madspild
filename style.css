@@ -5,7 +5,7 @@
 }
 
 body{
-    background: linear-gradient(to right, #acebc7 0%, #ffe2b3 100%);
+    background-image: url("background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -68,8 +68,8 @@ ul a:hover{
 .order-wrapper{
     position: absolute;
     top: 50%;
-    left: 37%;
-    transform: translate(-30%, -50%);
+    left: 50%;
+    transform: translate(-50%, -50%);
     border: 2px solid black;
     height: 60%;
     overflow: auto;
@@ -127,7 +127,7 @@ ul a:hover{
 }
 
 .form{
-    
+
     text-align: center;
 }
 .form div{
