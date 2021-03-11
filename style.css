@@ -27,6 +27,7 @@ nav {
 .nav-links li{
     margin: 1rem 2rem;
     font-size: 1.5rem;
+    padding: 5px 15px;
 }
 
 #logo{
@@ -136,13 +137,10 @@ ul a:hover{
 }
 
 
-
-
-
-
-
-
-
+#login{
+    background-color: rgba(136, 133, 133, 0.2);
+    border-radius: 30px;
+}
 
 .main-footer{
     background-color:rgba(29, 25, 25, 0.253);
